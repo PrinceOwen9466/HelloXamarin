@@ -11,7 +11,7 @@ namespace Hello
         {
             InitializeComponent();
 
-            MainPage = new FontSizesPage();
+            MainPage = new EmpiricalFontSizePage();
         }
 
         protected override void OnStart()
